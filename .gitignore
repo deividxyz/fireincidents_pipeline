@@ -1,0 +1,11 @@
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Ignora la carpeta venv
+venv
+
+# Ignora los archivos relacionados a API keys
+.env
+
+# Ignora la carpeta .idea
+.idea
