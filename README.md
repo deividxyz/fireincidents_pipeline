@@ -52,3 +52,7 @@ La ingesta copiará los datos raw hacia la tabla `fire_incidents` de la base de 
 También se generará una vista pensada para BI con nombre `vw_fire_incidents`.
 
 Es posible conectarse a la instancia PostgreSQL, encontrándose disponible en `localhost` y en puerto `5432`. El usuario y contraseña deben ser los indicados en el archivo .env.
+
+# Diagrama
+
+![Diagrama de Solución](https://raw.githubusercontent.com/deividxyz/fireincidents_pipeline/main/Diagrama.png "Diagrama de Solución")
