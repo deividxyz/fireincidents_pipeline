@@ -7,7 +7,10 @@ Para ello, el presente proceso consume la API provista por DataSF mediante SodaP
 # Cómo ejecutar
 
 Testeado funcionando en MacOS Sonoma 14.0 y openSUSE Tumbleweed. 
-Se requiere Docker Desktop.
+Se requiere Docker Desktop, una cuenta en DataSF y una App Token.
+
+- [Link para obtener cuenta (grátis)](https://data.sfgov.org/signup)
+- [Link para App Token](https://data.sfgov.org/profile/edit/developer_settings)
 
 1. Clonar el repositorio
 
