@@ -15,7 +15,7 @@ batchSize = int(os.getenv("BATCH_SIZE"))
 db_database = os.getenv("POSTGRES_DB")
 db_user = os.getenv("POSTGRES_USER")
 db_pass = os.getenv("POSTGRES_PASSWORD")
-db_host = "postgres"  #os.getenv("POSTGRES_HOSTNAME")
+db_host = "postgres"  # nombre del servicio en docker-compose.yml
 
 print("")
 print("Iniciando proceso de ingesta de datos...")
